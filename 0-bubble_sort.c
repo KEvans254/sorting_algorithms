@@ -9,7 +9,6 @@
  * @size: size of the array
  * Return: no return
  */
-
 void bubble_sort(int *array, size_t size)
 {
     size_t i, n;
